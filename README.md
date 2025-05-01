@@ -70,3 +70,9 @@ Used Plotly to make it more interactive and readable.
 ## 📬 Final Note  
 This is a portfolio project. I used real government data, applied what I know, and tried to ask meaningful questions.  
 If you're looking for someone who can clean data, ask the right questions, and turn them into insights — I’m available and ready to grow with your team.
+
+
+📌 **Note:** Plotly charts are interactive and may not appear properly on GitHub.  
+👉 **[Click here to view the full notebook with interactive visuals.]([https://nbviewer.org/github/your-username/your-repo-name/blob/main/your-notebook.ipynb](https://nbviewer.org/github/vikramnigam/HCPCS_Cd/blob/a80c93ea7f0bdfcb1929d07e32c9e4663d115350/HCPCS_Cd%20%26%20Bills.ipynb))**
+
+
